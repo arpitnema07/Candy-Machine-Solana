@@ -1,0 +1,54 @@
+{
+  "name": "First NFT Collection #7",
+  "symbol": "AP",
+  "description": "Learning NFT creation on Solana",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://www.twitter.com/ArpitNema",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9cJujZyWUoUreB4MojY7ziiEF8VqYzuSfq63SUgx1VJx",
+        "share": 100
+      }
+    ]
+  }
+}
